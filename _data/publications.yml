@@ -1,22 +1,33 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Game-Theoretical Approach to Multi-Robot Task Allocation Using a Bio-Inspired Optimization Strategy"
+    authors: <strong>Chen, Shengkang</strong>, Tony X. Lin and Fumin Zhang* (*Corresponding authors)
+    conference_short: IROS
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023.
+    image: ./assets/img/game_teaser.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Hybrid SUSD-Based Task Allocation for Heterogeneous Multi-Robot Teams"
+    authors:  <strong>Chen, Shengkang</strong>, Tony X. Lin, Said Al-Abri, Ronald C. Arkin and Fumin Zhang* (*Corresponding authors)
+    conference_short: ICRA
+    conference: IEEE International Conference on Robotics and Automation (ICRA), 2023.
+    pdf: https://ieeexplore.ieee.org/document/10161349
+    code: https://github.com/GeorgiaTechSystemResearch/Hybrid_SUSD_MRTA_public
+    image: ./assets/img/hybrid_teaser.png
+
+
+  - title: "Multi-modal User Interface for Multi-robot Control in Underground Environments"
+    authors:  <strong>Chen, Shengkang</strong>, Matthew J. O'Brien, Fletcher Talbot, Jason Willima, Brendan Tidd, Alex Pitt and Ronald C. Arkin* (*Corresponding authors)
+    conference_short: IROS
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022.
+    pdf: https://ieeexplore.ieee.org/abstract/document/9981165
+    image: ./assets/img/gui_teaser.png
+
+
+  - title: "CoLo: A Performance Evaluation System for Multi-robot Cooperative Localization Algorithms"
+    authors:  <strong>Chen, Shengkang*</strong> and Ankur Mehta (*Corresponding authors)
+    conference_short: ICRA
+    conference: IEEE International Conference on Robotics and Automation (ICRA), 2019.
+    pdf: https://ieeexplore.ieee.org/abstract/document/8794311
+    page: https://uclalemur.com/research/colo-simulation-environment-for-cooperative-localization
+    code: https://git.uclalemur.com/billyskc/CoLo
+    image: ./assets/img/colo_teaser.png

@@ -4,19 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a PhD student from Georgia Tech advised by [Dr. Fumin Zhang](https://fumin.ece.gatech.edu/) and [Dr. Ronald C. Arkin](https://www.cc.gatech.edu/aimosaic/faculty/arkin/). I design and develop algorithms and tools for **heterogeneous multi-robot teams** to coordinate effectively in challenging environments. I also study human-robot interaction, focusing on robotic deceptions.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Robotics:** multi-robot systems, task allocation, human-robot interaction
+- **Machine Learning:** multi-agent reinforcement learning, graph neural network
 
 ## News
+- **[Oct. 2023]** I am going to Detroit, MI to present my paper on IROS 2023!
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 {% include_relative _includes/publications.md %}
 
